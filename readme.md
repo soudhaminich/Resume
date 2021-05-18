@@ -23,13 +23,13 @@
 - College Name: __Sri Chaitanya Junior College__<br>
 - Branch : MPC<br>
 - Year Of Study: 2016 - 2018<br>
-- Precentage : 97.3%<br>
+- Percentage : 97.3%<br>
 - Address : Vijayawada<br>
 
 **SSC**
 - SchoolName: __Amali English Medium High School__<br>
 - Year Of Study: 2016<br>
-- Precentage : 92.77%<br>
+- Percentage : 92.77%<br>
 - Address : Vijayawada<br>
 
 ### **Skills**
@@ -49,7 +49,7 @@
 ### **Hobbies**
 
 - Reading Novels<br>
-- Listining Music<br>
+- Listening Music<br>
 - Playing Shuttle<br>
 - Playing Carroms<br>
 
