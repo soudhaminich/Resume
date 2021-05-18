@@ -57,8 +57,8 @@
 - Strengths:
   - Hardwork
   - Logical thinking
-  -Adaptive Nature
-  -Fluency in English
+  - Adaptive Nature
+  - Fluency in English
 - Weaknesses:
   - No weaknesses in particular
  
