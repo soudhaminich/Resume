@@ -36,7 +36,7 @@
 
 - Python - 100%
 
--Html - 70%
+- Html - 70%
 
 - Java - 70%
 
@@ -44,7 +44,7 @@
 
 ### **Goals**
 
--Software Engineer & Backend Devoloper based on Python
+- Software Engineer & Backend Devoloper based on Python
 
 ### **Hobbies**
 
