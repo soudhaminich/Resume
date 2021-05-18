@@ -9,7 +9,7 @@
 - Mail Id:soudhamini999@gmail.com<br>
 - Phone:+91 XXXXXXXXXX <br>
 - Address:Vijayawada,Andhra Pradesh <br><br>
-### Education Details :
+### **Education Details :**
 
 **B-Tech**
 
